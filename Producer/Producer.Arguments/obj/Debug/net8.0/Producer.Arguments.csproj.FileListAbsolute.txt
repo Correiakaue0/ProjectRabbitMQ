@@ -1,0 +1,11 @@
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\bin\Debug\net8.0\Producer.Arguments.deps.json
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\bin\Debug\net8.0\Producer.Arguments.dll
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\bin\Debug\net8.0\Producer.Arguments.pdb
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.AssemblyInfoInputs.cache
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.AssemblyInfo.cs
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.dll
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\refint\Producer.Arguments.dll
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\Producer.Arguments.pdb
+C:\Dev\GitHub\ProjectRabbitMQ\Producer\Producer.Arguments\obj\Debug\net8.0\ref\Producer.Arguments.dll

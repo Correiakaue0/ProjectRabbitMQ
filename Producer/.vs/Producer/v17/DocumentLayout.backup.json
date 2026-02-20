@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\GitHub\\ProjectRabbitMQ\\Producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AD5129-78B4-74F4-31C8-B78E598ADD74}|Producer.Application\\Producer.Application.csproj|c:\\dev\\github\\projectrabbitmq\\producer\\producer.application\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AD5129-78B4-74F4-31C8-B78E598ADD74}|Producer.Application\\Producer.Application.csproj|solutionrelative:producer.application\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Dev\\GitHub\\ProjectRabbitMQ\\Producer\\Producer.Application\\Services\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Producer.Application\\Services\\Customer\\CustomerService.cs",
+              "ToolTip": "C:\\Dev\\GitHub\\ProjectRabbitMQ\\Producer\\Producer.Application\\Services\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "Producer.Application\\Services\\Customer\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:47:37.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
